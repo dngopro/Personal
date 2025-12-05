@@ -1,0 +1,37 @@
+{
+    "Dustin": {
+        "name": "Sergei Rachmaninoff",
+        "era": "Late Romantic",
+        "piece": "Prelude in G minor, Op. 23 No. 5"
+    },
+    "Tina": {
+        "name": "Frederic Chopin",
+        "era": "Romantic",
+        "piece": "Nocturne Op. 27 No. 2"
+    },
+    "Jordan": {
+        "name": "Gustav Mahler",
+        "era": "Late Romantic",
+        "piece": "Resurrection Symphony"
+    },
+    "Ella": {
+        "name": "Johannes Brahms",
+        "era": "Late Romantic",
+        "piece": "Intermezzo in A major, Op. 118 No. 2"
+    },
+    "Kimmie": {
+        "name": "Franz Liszt",
+        "era": "Romantic",
+        "piece": "Hungarian Rhapsody No. 2 in C-sharp minor"
+    },
+    "Mario": {
+        "name": "Alexander Scriabin",
+        "era": "Late Romantic / Early 20Th Century",
+        "piece": "Piano Sonata No. 10"
+    },
+    "Kasey": {
+        "name": "Frederic Chopin",
+        "era": "Romantic",
+        "piece": "Etude in A minor, Op. 25 No. 11"
+    }
+}
